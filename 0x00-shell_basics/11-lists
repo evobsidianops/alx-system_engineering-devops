@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /boot $(pwd) /root/alx-system_engineering-devops/alx-system_engineering-devops
+ls -la $(pwd) /root/alx-system_engineering-devops/alx-system_engineering-devops /boot
