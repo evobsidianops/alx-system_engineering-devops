@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m=775 welcome/to/school/
+mkdir --mode=775 welcome/to/school/
